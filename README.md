@@ -1,5 +1,5 @@
 ---
-description: >-
+Description: >-
   Overview of the Open Grid Forum document collection; how to use OGF's document
   preparation templates and spaces, and their relation to the OGF public process
   for document development.
