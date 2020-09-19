@@ -5,7 +5,7 @@ description: >-
   for document development.
 ---
 
-# OGF Documents and GitBook Work Spaces
+# OGF Documents and Work Spaces
 
 ## Purpose
 
