@@ -13,5 +13,5 @@ Open Grid Forum documents are prepared according to an open public process. The 
 
 For additional details on OGF document style including example formatting guidelines, refer to the [OGF Document Templates section](ogf-document-templates.md) of this document.
 
-Further information including a full description of the document process and advice intended to help to guide selection from among these categories is contained in GFD.152 \(Open Grid Forum Document Process and Requirements\) available at: [https://ogf.org/documents/GFD.152.pdf](https://www.ogf.org/documents/GFD.152.pdf)
+Further information including a full description of the document process and advice intended to help to guide selection from among these categories is contained in GFD.152 \(Open Grid Forum Document Process and Requirements\) available at: [https://www.ogf.org/documents/GFD.152.pdf](https://www.ogf.org/documents/GFD.152.pdf)
 
