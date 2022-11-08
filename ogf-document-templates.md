@@ -1,6 +1,6 @@
 # OGF Document Templates and Tools
 
-To aid the community in preparing documents with elements that have proven to be useful over time and that are consitent with the Open Grid Forum Document Process and Requirements described in GFD.152, the following templates are provided:
+To aid the community in preparing documents with elements that have proven to be useful over time and that are consitent with the Open Grid Forum Document Process and Requirements described in [GFD.152](https://www.ogf.org/documents/GFD.152.pdf), the following templates are provided:
 
 * An online [OGF GitBook Document Template](https://docs.ogf.org/ogf-document-template/) at [https://docs.ogf.org/ogf-document-template/](https://docs.ogf.org/ogf-document-template/).
 * A [LaTeX package](https://redmine.ogf.org/attachments/31/OGF_document_latex_template.zip) that contains all necessary elements.
