@@ -6,7 +6,7 @@ To aid the community in preparing documents with elements that have proven to be
 * A [LaTeX package](https://redmine.ogf.org/attachments/31/OGF_document_latex_template.zip) that contains all necessary elements.
 * A [Microsoft Word template](https://redmine.ogf.org/attachments/32/OGF_document_word_template.docx) that can be used either directly or imported into other similar tools such as OpenOffice or Google Docs.
 
-Additionally, a [zipped archive of OGF presentation templates](https://redmine.ogf.org/attachments/51/OGF%20Presentation%20Templates.zip) is available containing examples in several formats for presentation of talks to OGF mmetings or on behalf of OGF.
+Additionally, a [zipped archive of OGF presentation templates](https://redmine.ogf.org/attachments/51/OGF%20Presentation%20Templates.zip) is available containing examples in several formats for presentation of talks to OGF meetings or on behalf of OGF.
 
 Use of OGF GitBook spaces is **suggested for convenience but not required** It is intended as a supplement to assist with document preparation workflow. The final submission of documents for publication in completed form on the OGF web site can also be accomplished with other tools such as those listed above. 
 
