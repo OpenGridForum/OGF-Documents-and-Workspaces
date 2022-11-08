@@ -9,7 +9,8 @@ description: >-
 OGF documents are developed according to an open public process as described at [this link](./).
 
 | GFD  | Type  | Area  | Group  | Publication  | Title  | Authors  |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | 
+| [GFD.240](http://www.ogf.org/documents/GFD.240.pdf) | REC | Data | DFDL-WG | 2021-02-28 | Data Format Description Language (DFDL) v1.0 Specification | M. Beckerle, S. Hanson |
 | [GFD.238](http://www.ogf.org/documents/GFD.238.pdf) | INFO | Infrastructure | NSI-WG | 2019-12-16 | NSI Connection Service v2.0 to v2.1 Delta | G. Roberts  |
 | [GFD.237](http://www.ogf.org/documents/GFD.237.pdf) | P-REC | Infrastructure | NSI-WG | 2019-12-16 | NSI Connection Service v2.1 | G. Roberts, J. MacAuley, T. Kudoh, C. Guok |
 | [GFD.236](http://www.ogf.org/documents/GFD.236.pdf) | P-REC | Infrastructure | NSI-WG | 2019-06-01 | Network Service Interface Document Distribution Service | J. MacAuley, G. Roberts  |
